@@ -1,52 +1,10 @@
-/* .navcontainer {
-    width: 960px;
-    margin: auto;
-}  
 
-.navbar-nav {
-    
-    background-color: #b1b1b1;
-     margin: auto; 
-    padding: 32px;   
-   
-  
- 
-}
-    
-    /* padding: 20px 25px 25px 25px;  */
-
-/* .navbar-brand {
-   
-    background-color: #b1b1b1; 
-    float: left; 
-     padding: 30px; 
-
-    /* padding: 8px 25px 22px 25px;  */
- 
-/* .navbar {
-     color: aliceblue; 
-    padding: 0px;
-}  
-.navbar-nav a{
-    background-color: #b1b1b1;
-    padding: 0 100px 0 100px;
-    color: white;
-}    */ 
 h2 {
     margin: auto;
 }
-#photo {
+/* #photo {
      margin: auto;
 }
-/* #firstrow {
-    background-color: blue;
- } 
-#firstcol {
-    background-color: blueviolet;
-}
-#secondcol {
-    backgroune-color: red;
-} */
 .firstrowbox {
     min-height: 50px;
     padding: 5px;
@@ -54,7 +12,7 @@ h2 {
     font-weight: 800;
     color: #fff;
     background: deepskyblue;
-    text-align: center;
+    text-align: center; */
 }
 .wrapper {
     margin: auto;
@@ -66,7 +24,7 @@ h2 {
 }
 body {
     background-color: black;
-    color: aquamarine;
+    color: rgb(51, 159, 209);
 }
 footer {
     background-color:black;
@@ -74,4 +32,45 @@ footer {
 }
 footer a {
     color: #b1b1b1;
+}
+/* contact */
+.card {
+    margin: 100px 0px 5px 0px;
+    background-color: black;
+}
+label {
+    margin: 10px 0px 15px 0px;
+}
+#sendbutton {
+    margin: 10px 0px 10px 15px;
+    background-color:  rgb(51, 159, 209);
+    color: #b1b1b1;
+}
+.form-group {
+    font-size: 22px;
+}
+.form-control {
+    background-color:  #fff;
+    color:  rgb(51, 159, 209);
+
+}
+.card-body {
+    text-align: center;
+}
+/* portfolio */
+#viewer {
+    margin: 100px 0px 0px 0px;
+}
+h4 {
+    text-align: center;
+    font-size: 22px;
+    margin: 20px 0px 20px 0px;
+}
+.btn.btn-primary {
+    background-color:  rgb(51, 159, 209);
+    color: #b1b1b1;
+
+}
+.gal-section {
+    margin: 20px 0px 20px 0px;
 }
