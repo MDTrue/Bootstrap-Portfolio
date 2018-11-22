@@ -12,11 +12,11 @@ h2 {
     margin-bottom: 30px;
 }
 body {
-    background-color: black;
+    background-color: white;
     color: rgb(51, 159, 209);
 }
 footer {
-    background-color:black;
+    background-color:white;
     color: #b1b1b1;
 }
 footer a {
@@ -25,7 +25,7 @@ footer a {
 /* contact */
 .card {
     margin: 100px 0px 5px 0px;
-    background-color: black;
+    background-color: white;
 }
 label {
     margin: 10px 0px 15px 0px;
